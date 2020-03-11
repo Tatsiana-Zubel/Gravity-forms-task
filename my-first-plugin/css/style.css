@@ -1,0 +1,30 @@
+
+.entry-header .entry-title{
+color:#3875d7;
+}
+
+.gform_body li{
+    list-style-type: none;
+}
+
+li .gfield_label{
+    color:#3875d7;
+    font-weight: 700;
+}
+
+.gfield{
+    width: 60%;
+    margin-bottom: 10px;
+}
+
+.submit{
+    width: 70%;
+}
+
+.gform_footer .button:hover{
+    background:black;
+    
+}
+.gform_footer .button{
+    background:#3875d7;
+}
