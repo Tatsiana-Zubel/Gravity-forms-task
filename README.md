@@ -1,5 +1,5 @@
 
-1.) Install Gravity Forms plug-in to the new WordPress installation;
+1.) Install Gravity Forms plugin to the new WordPress installation;
 2.) Create new form with 3 fields to enter the length of the sides of the Triangle and  fourth field to automatically calculate the half-meter of the Triangle;
 3.) Add forms shortcode to WordPress to display it like here: https://snag.gy/4VO1Zd.jpg + change button text to "Siųsti";
 4.) Create a new WordPress plug-in that:
